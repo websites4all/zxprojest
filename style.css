@@ -1,0 +1,62 @@
+.header-text-holder, .subscribe-holder{
+    text-align: center;
+    color: white;
+}
+.main-header{
+    background-image: url(../../background_Img/MixColor.png);
+    background-size: cover;
+    padding-top: 260px;
+    padding-bottom: 360px;
+}
+.default-header{
+    background-image: url(../../background_Img/MixColor.png);
+    background-size: cover;
+    padding-top: 150px;
+    padding-bottom: 150px;
+}
+.bg-light {
+    background-color: #f8f9faa3 !important;
+}
+.mycard{
+    border: 2px double green;
+}
+.mycard:hover{
+    box-shadow: 1px 2px 3px 4px red;
+    transition-duration: 0.5s;
+}
+.mycard h3{
+    font-size: 25px;
+}
+.home-body-content{
+    padding-top: 1em;
+}
+.home-body-content .mycard{
+    margin-bottom: 25px;
+}
+.default-body-content{
+    padding: 25px;
+}
+.default-body-content .list-group .list-group-item h3{
+    font-size: 30px;
+    color: rgb(116, 8, 8);
+}
+.default-body-content .list-group a{
+    padding-top: 20px;
+}
+.default-body-content .list-group .list-group-item p{
+    font-size: 15px;
+    color: black;
+}
+.main-footer{
+    padding-top: 5px;
+    color: white;
+    background-color: black;
+}
+.content{
+    border: 2px double blue;
+    background-color: rgb(185, 241, 128);
+    padding: 15px;
+}
+.content h2{
+    color: rgb(247, 81, 21);
+}   
